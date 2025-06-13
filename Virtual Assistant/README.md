@@ -41,6 +41,3 @@ This project is a part of my **BCA (Bachelor of Computer Applications)** journey
 - 📴 Command to go offline: `go offline`
 
 ---
-
-## 📁 File Structure
-
